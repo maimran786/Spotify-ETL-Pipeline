@@ -5,6 +5,8 @@ This project builds an **ETL (Extract, Transform, Load) pipeline** using the **S
 
 ## Architecture 
 
+![Architecture Diagram](https://github.com/maimran786/Spotify-ETL-Pipeline/blob/main/Docs/Architecture%20Diagram.png)
+
 ### ETL Pipeline Flow
 
 **Extract:** Fetches data from Spotify API.
